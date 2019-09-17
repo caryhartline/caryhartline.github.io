@@ -30,7 +30,6 @@ main {
 	justify-items: center;
 	padding-top: 10%;
 	grid-row-gap: 50px;
-	align-self: start;
 	
 }
 main > a {
